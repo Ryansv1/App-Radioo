@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "App-Radioo",
+    "slug": "App-Radioo",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+
+  }
+}
